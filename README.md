@@ -5,3 +5,5 @@
 - milk powder
 - unsalted butter
 - instant dry yeast
+- pork chop
+- chicken drumsticks
