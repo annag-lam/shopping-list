@@ -1,0 +1,7 @@
+- eggs
+- whole milk
+- bread flour
+- cake flour
+- milk powder
+- unsalted butter
+- instant dry yeast
