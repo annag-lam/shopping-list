@@ -7,3 +7,4 @@
 - instant dry yeast
 - pork chop
 - chicken drumsticks
+- pesto
